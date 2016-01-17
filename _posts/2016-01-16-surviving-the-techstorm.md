@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: New book launch on the merger of technology and business
-datePublished: '2016-01-16T22:09:22.984Z'
-dateModified: '2016-01-16T11:39:12.424Z'
+datePublished: '2016-01-16T22:09:40.077Z'
+dateModified: '2016-01-16T22:09:22.984Z'
 title: Surviving the Techstorm
 author: []
 authors: []
